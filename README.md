@@ -6,4 +6,4 @@
 
 One image summing up the world news of Saturday 21 November 2026, built for the [make.fun bounty](https://make.fun/bounty/news-image-20261121).
 
-Run  — it writes the image to .
+Run python3 main.py - it writes the image to /output/entry.png.
